@@ -1,0 +1,30 @@
+header{
+margin:15px;
+border:2px solid black;
+border-radius:15px;
+}
+
+nav{
+display:flex;
+flex-direction:row;
+align-items:center;
+}
+
+img{
+width:150px;
+border-radius:15px;
+}
+
+ul{
+display:flex;
+flex-direction:row;
+list-style-type:none;
+justify-content: space-between;
+width:800px;
+border:2px solid black;
+}
+
+li{
+padding:15px;
+font-size:25px;
+}
